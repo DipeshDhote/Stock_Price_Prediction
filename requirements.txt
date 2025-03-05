@@ -5,3 +5,9 @@ matplotlib
 scikit-learn
 psycopg2
 python-dotenv
+tensorflow
+pytorch
+statsmodels
+
+# loading data
+yfinance
